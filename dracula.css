@@ -410,7 +410,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .inline_message_input_container .ql-container.focus, .inline_message_input_container .ql-container:active, .inline_message_input_container .ql-container:hover { border-color: #828282; }
 
-.c-message--editing { background: #282a36; border-color: #282a36; color: #f8f8f2; }
+.c-message--editing { background: #282a36; border-color: #6272a4; color: #f8f8f2; }
 
 .c-message__editor__input, .c-message__editor__input--legacy { background: #2a2d3d; border-color: #282a36; color: #f8f8f2; }
 
