@@ -376,7 +376,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 #msg_input:focus, #msg_input.focus { border-color: #282a36; }
 
-#msg_input:focus + #primary_file_button:not(:hover):not(.active), #msg_input.focus + #primary_file_button:not(:hover):not(.active) { border-color: #282a36; }
+#msg_input:focus + #primary_file_button:not(:hover):not(.active), #msg_input.focus + #primary_file_button:not(:hover):not(.active) { border-color: #6272a4; }
 
 #msg_input + #primary_file_button:not(:hover):not(.active) { border-color: #6272a4; }
 
