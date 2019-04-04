@@ -412,9 +412,9 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message--editing { background: #282a36; border-color: #6272a4; color: #f8f8f2; }
 
-.c-message__editor__input, .c-message__editor__input--legacy { background: #2a2d3d; border-color: #282a36; color: #f8f8f2; }
+.c-message__editor__input, .c-message__editor__input--legacy { background: #2a2d3d; border-color: #6272a4; color: #f8f8f2; }
 
-.c-message__editor__input.focus, .c-message__editor__input--legacy.focus { border-color: #282a36; box-shadow: 0 0 7px rgba(0, 0, 0, 0.15); }
+.c-message__editor__input.focus, .c-message__editor__input--legacy.focus { border-color: #6272a4; box-shadow: 0 0 7px rgba(0, 0, 0, 0.15); }
 
 .c-message__editor__warning { color: #bf360c; }
 
@@ -426,9 +426,9 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message .c-button--primary { background-color: #2a2d3d; color: #f8f8f2; }
 
-#message_edit_container .message_input { background: #2a2d3d; border-color: #282a36; color: #f8f8f2; }
+#message_edit_container .message_input { background: #2a2d3d; border-color: #6272a4; color: #f8f8f2; }
 
-#message_edit_container .message_input.focus { border-color: #282a36; box-shadow: 0 0 7px rgba(0, 0, 0, 0.15); }
+#message_edit_container .message_input.focus { border-color: #6272a4; box-shadow: 0 0 7px rgba(0, 0, 0, 0.15); }
 
 .ql-editor::-webkit-scrollbar-thumb { background-color: rgba(84, 84, 84, 0.5); color: #282a36; }
 
