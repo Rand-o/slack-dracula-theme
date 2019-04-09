@@ -996,7 +996,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message_list__unread_divider__separator { border-color: #6272a4; }
 
-.c-message_list__unread_divider__label { background: #282a36; box-shadow: 0 0 2px rgba(189, 147, 249, 1); color: #6272a4; }
+.c-message_list__unread_divider__label { background: #282a36; box-shadow: 0 0 2px rgba(98, 114, 164, 1); color: #6272a4; }
 
 .c-message_list__spinner { color: #6272a4; }
 
